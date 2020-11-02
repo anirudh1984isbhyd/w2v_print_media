@@ -296,9 +296,9 @@ else:
     color_map = [label_dict[x] for x in labels]
     
 
-st.title('Print media Word Embedding Visualization Based on Cosine Similarity on a corpus consisting of close to 13,000 artciles taken from 11 english news papers')
+st.title('Print media Word Embeddings. Visualization based on Cosine Similarity on a corpus consisting of over 13,000 articles from 11 news papers over 10 years')
 
-st.header('This is a web app to visualize word embeddings from articles around aadhaar.')
+st.header('Visualize word embeddings from articles around aadhaar.')
 
 st.markdown('First, choose the dimension of visualization that you want to see. There are two options: 2D and 3D.')
            

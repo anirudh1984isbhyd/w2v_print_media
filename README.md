@@ -1,0 +1,2 @@
+# w2v_print_media
+Word_2_vec_vizualization

@@ -20,7 +20,7 @@ from gensim.models.word2vec import Word2Vec
 
 ##load stored model
 ## model is a W2Vec 
-path = '/Users/anirudh_syal/Desktop/Data_analytics/2.0_word_embed/project/w2v.model'
+path = 'w2v.model'
 model = Word2Vec.load(path)
 
 

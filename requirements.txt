@@ -1,0 +1,6 @@
+gensim==3.8.3
+streamlit==0.70.0
+plotly==4.8.1
+numpy==1.18.1
+tqdm==4.42.1
+scikit_learn==0.23.2
